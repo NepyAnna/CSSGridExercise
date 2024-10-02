@@ -1,0 +1,28 @@
+.container{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+.labele{
+
+}
+
+.item1{
+    
+}
+
+.item2{
+   
+}
+
+.item3{
+   
+}
+
+.item4{
+   
+}
+.item5{
+   
+}
